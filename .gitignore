@@ -38,3 +38,6 @@ target/
 !gradlew.bat
 !gradle/
 !gradle-wrapper.jar
+# Container volumes files
+work/
+init/
